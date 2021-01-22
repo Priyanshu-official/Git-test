@@ -33,3 +33,11 @@ body{
 .navbar-dark{
     background-color: #512DA8;
 }
+
+.Reserve{
+    width: 40%;
+    margin-top: 10px;
+}
+.head1{
+    background-color: rgb(255, 190, 68);
+}
